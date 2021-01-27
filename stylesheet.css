@@ -70,3 +70,174 @@ body {
   font-weight: bold;
   color: #0b71d9;
 }
+.filters-box-list {
+  background-color: #eff2f6;
+  width: 170px;
+  height: 430px;
+  margin: 12px 15px 0 -5px;
+  float: left;
+  border-radius: 5px;
+  justify-content: center;
+}
+.filters-box {
+  background-color: #eff2f6;
+  width: 150px;
+  height: 50px;
+  margin: 15px 15px 0 15px;
+  float: left;
+  display: flex;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+.filters {
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  color: #393f47;
+  margin-left: 32px;
+}
+.dateOfPosting-box {
+  background-color: #eff2f6;
+  width: 150px;
+  height: 115px;
+  margin: 0px 15px 0 15px;
+  float: left;
+  flex-direction: column;
+  display: flex;
+  border-radius: 5px;
+  align-items: center;
+  justify-content: left;
+}
+.dateOfPosting {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  color: #393f47;
+  margin-left: 32px;
+}
+.allTime-type {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  color: #5bb50e;
+  margin-left: -28px;
+}
+.dateOfPosting-type-hours {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: normal;
+  color: #393f47;
+  margin-left: 14px;
+  margin-top: 5px;
+}
+.dateOfPosting-type {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: normal;
+  color: #393f47;
+  margin-left: 0px;
+  margin-top: 5px;
+}
+.salary-box {
+  background-color: #eff2f6;
+  width: 150px;
+  height: 115px;
+  margin: 0px 15px 0 15px;
+  float: left;
+  flex-direction: column;
+  display: flex;
+  border-radius: 5px;
+  align-items: center;
+  justify-content: left;
+}
+.salary {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  color: #393f47;
+  margin-left: -34px;
+}
+.any-type {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  color: #5bb50e;
+  margin-left: -50px;
+}
+.salary-type {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: normal;
+  color: #393f47;
+  margin-left: -20px;
+  margin-top: 5px;
+}
+.salary-type-m {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: normal;
+  color: #393f47;
+  margin-left: -12px;
+  margin-top: 5px;
+}
+.jobType-box {
+  background-color: #eff2f6;
+  width: 150px;
+  height: 115px;
+  margin: 0px 15px 0 15px;
+  float: left;
+  flex-direction: column;
+  display: flex;
+  border-radius: 5px;
+  align-items: center;
+  justify-content: left;
+}
+.jobType {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  color: #393f47;
+  margin-left: -14px;
+}
+.jobType-type-ft {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: normal;
+  color: #393f47;
+  margin-left: -14px;
+  margin-top: 5px;
+}
+.jobType-type-t {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: normal;
+  color: #393f47;
+  margin-left: 2px;
+  margin-top: 5px;
+}
+.jobType-type-pt {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: normal;
+  color: #393f47;
+  margin-left: -8px;
+  margin-top: 5px;
+}
+.jobType-type-i {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: normal;
+  color: #393f47;
+  margin-left: -4px;
+  margin-top: 5px;
+}
+.any-jobType {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  color: #5bb50e;
+  margin-top: 5px;
+  margin-left: -42px;
+}
