@@ -31,7 +31,7 @@ body {
   width: 203px;
   height: 40px;
   font-size: 16px;
-  margin: 12px 15px 0 0;
+  margin: 12px 13px 0 0;
   padding: 0 0 0 15px;
   border-radius: 5px;
   display: flex;
@@ -65,7 +65,7 @@ body {
 .login-box {
   border: 1px solid #0b71d9;
   background-color: #ffffff;
-  width: 106px;
+  width: 80px;
   height: 40px;
   font-size: 16px;
   font-weight: bold;
@@ -302,6 +302,7 @@ input:checked + .slider:before {
   padding: 0 0 0 10px;
   border-radius: 5px;
   display: flex;
+  flex-direction: column;
   flex-direction: column;
   align-items: left;
 }
