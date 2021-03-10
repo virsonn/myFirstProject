@@ -1,0 +1,114 @@
+body {
+  background-color: #eff2f6;
+}
+.login-box {
+  display: none;
+}
+.logo .login-box {
+  display: flex;
+  width: 80px;
+  height: 40px;
+}
+.logo {
+  justify-content: space-between;
+  margin: 21px 0 30px 0;
+}
+.header {
+  height: 253px;
+}
+.container {
+  height: 400px;
+  width: 390px;
+  display: flex;
+  flex-direction: column;
+}
+.container-page {
+  margin: 21px 0 0 0;
+}
+.navigation {
+  flex-direction: column;
+}
+.left-panel {
+  display: none;
+}
+.main-page {
+  height: auto;
+}
+.result-one {
+  width: 355px;
+  height: 147px;
+}
+.result-top-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 9px 11px 0 0;
+}
+.result-title {
+  margin: 0 0 0 0;
+}
+.result-location {
+  display: none;
+}
+.result-time {
+  display: none;
+}
+.result-time-mobile {
+  display: flex;
+  margin: 14px 12px 0 0;
+  width: auto;
+}
+.result-role-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 0 0 0;
+  height: auto;
+}
+.result-description {
+  margin: 0 0 0 0;
+}
+.result-role {
+  margin: 0 0 0 0;
+}
+.result-two {
+  width: 355px;
+  height: 147px;
+}
+.jobs-count {
+  width: auto;
+}
+.custom-input {
+  width: 354px;
+  margin: 5px 19px 5px 17px;
+}
+.search-box {
+  width: 355px;
+  margin: 5px 18px 20px 17px;
+}
+.front-section.logo {
+  display: flex;
+  flex-direction: row;
+}
+.remote-job-box {
+  display: none;
+}
+.remote-job-box-mobile {
+  display: flex;
+}
+.result-three {
+  display: contents;
+  border: 1px solid #d0d6dd;
+  background-color: #ffffff;
+  font-size: 14px;
+  width: 355px;
+  height: 147px;
+  margin: 0 0 14px 0;
+  padding: 0 0 0 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
