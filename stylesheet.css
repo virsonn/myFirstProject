@@ -446,15 +446,4 @@ input:checked + .slider:before {
 }
 .result-three {
   display: none;
-  border: 1px solid #d0d6dd;
-  background-color: #ffffff;
-  font-size: 14px;
-  width: 581px;
-  height: 190px;
-  margin: 14px 0 14px 0;
-  padding: 0 0 0 10px;
-  border-radius: 5px;
-  display: flex;
-  flex-direction: column;
-  align-items: left;
 }
